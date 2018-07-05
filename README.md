@@ -25,6 +25,13 @@ loop do
 end
 ```
 
+## Contributing
+
+The `develop` branch contains all the latest changes and all development is
+done on it. Stable releases are merged into the `master` branch.
+
+All contributions and suggestions are welcome.
+
 ## License
 
 This project is licensed under the MIT license. Reference the
