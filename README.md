@@ -14,6 +14,8 @@ Add the line below to your `build_config.rb`:
 
 ## Example
 
+The following code reads the sensor's value every 100ns and prints the result.
+
 ```Ruby
 loop do
   # Reads and returns the sensor's current value
